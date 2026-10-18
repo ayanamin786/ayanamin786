@@ -1,167 +1,190 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Ayan+Abro!;" />
- </h1>   
-
-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B70,100:00D4FF&height=220&section=header&text=AYAN%20AMIN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:111B40,65:4527A0,100:00D4FF&text=AYAN%20AMIN&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20IN%20PROGRESS&descSize=17&descAlignY=59&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Learning+JavaScript+%26+React;Exploring+Full-Stack+Development;Future+AI+%26+Cybersecurity+Developer;Turning+Curiosity+Into+Code" alt="Animated typing text" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+Web+Experiences;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Vite+%7C+Modern+UI;Turning+Designs+Into+Reality;Always+Learning.+Always+Building." alt="Animated developer introduction" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0078FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding scene" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-00D4FF?style=for-the-badge&labelColor=080B16" />
+<img src="https://img.shields.io/badge/DESIGN-CLEAN%20%26%20RESPONSIVE-8B5CF6?style=for-the-badge&labelColor=080B16" />
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
+
+## ✦ ABOUT ME ✦
+
+</div>
+
+I'm Ayan Amin, an aspiring frontend developer from Pakistan who enjoys turning ideas into interactive web experiences.
+
+- Building responsive and modern websites.
+- Learning JavaScript, React and modern frontend workflows.
+- Exploring UI design, animations and reusable components.
+- Improving my problem-solving and development skills through projects.
+- Working toward becoming a skilled software developer.
 
 ```js
-const ayan = {
+const developer = {
   name: "Ayan Amin",
-  location: "Pakistan",
-  role: "Aspiring Software Developer",
-  currentlyLearning: ["JavaScript", "React", "MERN Stack"],
-  interests: ["Web Development", "App Development", "AI", "Cybersecurity"],
-  goal: "Build useful products and become a skilled developer",
-  mindset: "Learn. Build. Debug. Improve. Repeat."
+  role: "Aspiring Frontend Developer",
+  country: "Pakistan",
+  learning: ["JavaScript", "React", "Modern CSS"],
+  interests: ["UI/UX", "Web Design", "Animations"],
+  goal: "Build beautiful and useful digital experiences"
 };
-
-console.log("The journey is just getting started.");
 ```
 
-- Currently strengthening my JavaScript and full-stack development skills.
-- Building projects to turn concepts into practical experience.
-- Exploring modern web technologies, AI and cybersecurity.
-- Interested in creating useful, responsive and user-friendly applications.
-- Focused on consistent learning and improving one project at a time.
-
 ---
-
-## `</> Tech Stack`
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,tailwind&theme=dark" alt="Frontend technologies" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and database technologies" />
-</p>
-
-### Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark" alt="Development tools" />
-</p>
-
-> My stack represents technologies I have learned, used, or am currently exploring—not expert-level proficiency in every tool.
-
----
-
-## `🚀 Featured Projects`
-
-### 01 — Quiz Application
-A JavaScript quiz app built to practice application logic, user interactions and dynamic UI updates. Firebase integration is part of my learning journey.
-
-**Tech:** HTML · CSS · JavaScript · Firebase
-
-### 02 — TODO Application
-A task management project focused on adding, displaying and managing tasks through JavaScript.
-
-**Tech:** HTML · CSS · JavaScript
-
-### 03 — Calculator
-A beginner project for practicing mathematical operations, event handling and DOM manipulation.
-
-**Tech:** HTML · CSS · JavaScript
-
-### 04 — Blog Dashboard
-A React learning project focused on reusable components, hooks, performance optimization and Redux Toolkit.
-
-**Tech:** React · Hooks · Redux Toolkit
-
-### 05 — Product Inventory API
-A backend learning project involving Express.js, MongoDB, authentication, CRUD operations, validation and file uploads.
-
-**Tech:** Node.js · Express.js · MongoDB · Mongoose
-
-> Add repository links to these projects after publishing them on GitHub.
-
----
-
-## `📊 GitHub Analytics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" height="165" alt="GitHub stats" />
+## ⚡ MY FRONTEND ARSENAL
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" height="165" alt="Most used languages" />
+### Core Technologies
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="70%" alt="GitHub contribution streak" />
+### Frameworks & Build Tools
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind,sass&theme=dark" alt="React Vite Bootstrap Tailwind Sass" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=050816&color=00D4FF&line=0078FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+### UI Libraries & State Management
+
+<img src="https://skillicons.dev/icons?i=redux,materialui,styledcomponents&theme=dark" alt="Redux Material UI Styled Components" />
+
+### Design & Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Git GitHub VS Code Figma npm" />
 
 </div>
 
 ---
 
-## `🎯 Current Mission`
+<div align="center">
 
-- [x] Learn HTML and CSS fundamentals
-- [x] Build beginner JavaScript projects
-- [ ] Strengthen JavaScript and DOM concepts
-- [ ] Build more React applications
-- [ ] Improve backend and database skills
-- [ ] Explore AI development and cybersecurity
+## ✨ WHAT I LOVE BUILDING
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Modern Websites
+
+Responsive layouts, clean interfaces, beautiful typography and polished user experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Interactive Interfaces
+
+JavaScript-powered interactions, dynamic content, form validation and DOM manipulation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ React Applications
+
+Reusable components, React hooks, component-based architecture and state management.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ UI Animations
+
+Smooth transitions, hover effects, micro-interactions and engaging visual details.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `💡 Developer Philosophy`
+<div align="center">
+
+## 🚀 PROJECT SHOWCASE
+
+</div>
+
+### 01 / JavaScript Quiz App
+
+An interactive quiz application built to practice JavaScript logic, DOM manipulation and user interaction.
+
+`HTML` `CSS` `JavaScript`
+
+### 02 / TODO Application
+
+A task management interface for practicing dynamic rendering, events and task operations.
+
+`HTML` `CSS` `JavaScript`
+
+### 03 / Calculator
+
+A functional calculator project focused on input handling, arithmetic operations and interface design.
+
+`HTML` `CSS` `JavaScript`
+
+### 04 / React Blog Dashboard
+
+A learning project focused on reusable React components, hooks and frontend state management.
+
+`React` `Redux Toolkit` `CSS`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-
-**"Small projects. Strong fundamentals. Consistent progress."**
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-View%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B16" alt="Explore projects" />
+</a>
 
 </div>
 
 ---
 
-## `🌐 Connect With Me`
-
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+## 📈 MY GITHUB UNIVERSE
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=8B5CF6&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-00A6D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" width="49%" alt="Top programming languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080B16&color=00D4FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:123B70,100:050816&height=100&section=footer" width="100%" />
+## 🎯 CURRENT MISSION
+
+<img src="https://img.shields.io/badge/01-Strengthen%20JavaScript-00D4FF?style=flat-square" />
+<img src="https://img.shields.io/badge/02-Master%20React-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/03-Build%20Better%20UIs-00D4FF?style=flat-square" />
+<img src="https://img.shields.io/badge/04-Create%20Real%20Projects-8B5CF6?style=flat-square" />
+
+<br/><br/>
+
+### `DESIGN ✦ CODE ✦ CREATE ✦ REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4527A0,100:050816&height=120&section=footer" width="100%" />
 
 </div>
