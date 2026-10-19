@@ -1,190 +1,100 @@
+### Hi there, I'm Ayan Amin Abro 👋
+<hr />
 
-<div align="center">
+#### I'm a Developer, Teacher and Researcher!
+<!-- <img align="left" alt="Visual Studio Code" width="500px" src="./bio.gif" /> -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:111B40,65:4527A0,100:00D4FF&text=AYAN%20AMIN&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20IN%20PROGRESS&descSize=17&descAlignY=59&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Crafting+Beautiful+Web+Experiences;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Vite+%7C+Modern+UI;Turning+Designs+Into+Reality;Always+Learning.+Always+Building." alt="Animated developer introduction" />
+<!-- **MuhammadZubair786/MuhammadZubair786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on a Python,Python Django!
+- 🌱 I’m currently learning Backend with Javascript 
+- 👯 I’m looking to collaborate with other content creators and developers
+
+
+
+
+
+
+
+<!-- #
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+</p>
+
+#
+
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
+<p align="center">
+<!--   <img src="![Profile views](https://gpvc.arturio.dev/MuhammadZubair786)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MuhammadZubair786&style=flat&color=brightgreen"> •   <a href="https://user-badge.committers.top/pakistan/MuhammadZubair786"><img src="https://user-badge.committers.top/pakistan/MuhammadZubair786.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/MuhammadZubair786?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/MuhammadZubair786?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/MuhammadZubair786"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Flutter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdeDo-lTPgIun1bUyyBxsjgCgvtIKOH-BorLSZ-ZGiNboH_f6Ohb_-7mIa0PWOhZG5MI&usqp=CAU" /> 
+<img align="left" alt="Firebase" width="30px" src="https://yt3.ggpht.com/ytc/AKedOLQV7AS-uSmgD7Rl7QsmhazGjn2XQGNIkqYUislhbQ=s900-c-k-c0x00ffffff-no-rj" /> 
+<!-- <img align="left" alt="Angular" width="30px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png" /> -->
+ <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<!-- <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
+<!-- <img align="left" alt="MongoDB" width="30px" src="https://png.pngitem.com/pimgs/s/385-3850359_icon-mongodb-logo-hd-png-download.png" /> -->
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+
+
+
+[website]: http://my-portfilo-d78b3.web.app/
+[twitter]: https://twitter.com/Muhamma05909589
+[instagram]: https://www.instagram.com/zubair2880/
+[linkedin]: https://www.linkedin.com/in/muhammad-zubair-minhas-224541183/
+[facebook]: https://web.facebook.com/profile.php?id=100010093773879
+
+###  Github Stats
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZubair786&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)
+
+### Top Languages Card
+<img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadZubair786&layout=compact&langs_count=8&theme=algolia"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding scene" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZubair786&" alt="annasshah" /></p>
 
-<br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-00D4FF?style=for-the-badge&labelColor=080B16" />
-<img src="https://img.shields.io/badge/DESIGN-CLEAN%20%26%20RESPONSIVE-8B5CF6?style=for-the-badge&labelColor=080B16" />
+## Connect with me:
 
-</div>
 
----
+[<img align="left" alt="saad-hassan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/>][twitter]
+[<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/>][instagram]
 
-<div align="center">
 
-## ✦ ABOUT ME ✦
-
-</div>
-
-I'm Ayan Amin, an aspiring frontend developer from Pakistan who enjoys turning ideas into interactive web experiences.
-
-- Building responsive and modern websites.
-- Learning JavaScript, React and modern frontend workflows.
-- Exploring UI design, animations and reusable components.
-- Improving my problem-solving and development skills through projects.
-- Working toward becoming a skilled software developer.
-
-```js
-const developer = {
-  name: "Ayan Amin",
-  role: "Aspiring Frontend Developer",
-  country: "Pakistan",
-  learning: ["JavaScript", "React", "Modern CSS"],
-  interests: ["UI/UX", "Web Design", "Animations"],
-  goal: "Build beautiful and useful digital experiences"
-};
-```
-
----
-
-<div align="center">
-
-## ⚡ MY FRONTEND ARSENAL
-
-### Core Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
-
-### Frameworks & Build Tools
-
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind,sass&theme=dark" alt="React Vite Bootstrap Tailwind Sass" />
-
-### UI Libraries & State Management
-
-<img src="https://skillicons.dev/icons?i=redux,materialui,styledcomponents&theme=dark" alt="Redux Material UI Styled Components" />
-
-### Design & Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Git GitHub VS Code Figma npm" />
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ WHAT I LOVE BUILDING
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Modern Websites
-
-Responsive layouts, clean interfaces, beautiful typography and polished user experiences.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Interactive Interfaces
-
-JavaScript-powered interactions, dynamic content, form validation and DOM manipulation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ React Applications
-
-Reusable components, React hooks, component-based architecture and state management.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ UI Animations
-
-Smooth transitions, hover effects, micro-interactions and engaging visual details.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 PROJECT SHOWCASE
-
-</div>
-
-### 01 / JavaScript Quiz App
-
-An interactive quiz application built to practice JavaScript logic, DOM manipulation and user interaction.
-
-`HTML` `CSS` `JavaScript`
-
-### 02 / TODO Application
-
-A task management interface for practicing dynamic rendering, events and task operations.
-
-`HTML` `CSS` `JavaScript`
-
-### 03 / Calculator
-
-A functional calculator project focused on input handling, arithmetic operations and interface design.
-
-`HTML` `CSS` `JavaScript`
-
-### 04 / React Blog Dashboard
-
-A learning project focused on reusable React components, hooks and frontend state management.
-
-`React` `Redux Toolkit` `CSS`
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-View%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B16" alt="Explore projects" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 MY GITHUB UNIVERSE
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=8B5CF6&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" width="49%" alt="Top programming languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080B16&color=00D4FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 CURRENT MISSION
-
-<img src="https://img.shields.io/badge/01-Strengthen%20JavaScript-00D4FF?style=flat-square" />
-<img src="https://img.shields.io/badge/02-Master%20React-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/03-Build%20Better%20UIs-00D4FF?style=flat-square" />
-<img src="https://img.shields.io/badge/04-Create%20Real%20Projects-8B5CF6?style=flat-square" />
-
-<br/><br/>
-
-### `DESIGN ✦ CODE ✦ CREATE ✦ REPEAT`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:4527A0,100:050816&height=120&section=footer" width="100%" />
-
+<div align="center" dir="auto">
+<blockquote>
+<p dir="auto"><em>"Code with purpose. Build with empathy. Grow globally."</em><br>
+— Muhammad Zubair Minhas 💻🌍✨</p>
+</blockquote>
 </div>
