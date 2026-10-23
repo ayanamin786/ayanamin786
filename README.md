@@ -162,11 +162,11 @@ A learning project focused on reusable React components, hooks and frontend stat
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanamin786&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080B16&color=00D4FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanamin786&bg_color=080B16&color=00D4FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
