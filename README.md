@@ -144,7 +144,7 @@ A learning project focused on reusable React components, hooks and frontend stat
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/ayanamin786?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-View%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B16" alt="Explore projects" />
 </a>
 
@@ -156,13 +156,13 @@ A learning project focused on reusable React components, hooks and frontend stat
 
 ## 📈 MY GITHUB UNIVERSE
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=8B5CF6&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D4FF&icon_color=white&text_color=E6EDF3" width="49%" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=E6EDF3" width="49%" alt="Top programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanamin786&layout=compact&hide_border=true&bg_color=080B16&title_color=00D4FF&text_color=white" width="49%" alt="Top programming languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanamin786&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanamin786&hide_border=true&background=080B16&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=white&dates=9CA3AF" width="75%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
